@@ -1,0 +1,9 @@
+# build
+/bin/
+
+# intellij idea
+/.idea/
+*.iml
+
+# maven
+/target/
